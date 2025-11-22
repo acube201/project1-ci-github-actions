@@ -1,0 +1,1 @@
+[![CI - Build and Test](https://github.com/acube201/project1-ci-github-actions/actions/workflows/ci.yml/badge.svg)](https://github.com/acube201/project1-ci-github-actions/actions/workflows/ci.yml)
